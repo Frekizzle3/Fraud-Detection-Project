@@ -61,7 +61,13 @@ The Power BI dashboard presents:
 * Model performance (True/False Positives & Negatives)
 * Precision and Recall metrics
 
-![Dashboard](images/dashboard.png)
+## 📊 Dashboard Preview
+
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
+
+*Fraud Detection Dashboard showing model performance, class imbalance, and prediction results.*
 
 ---
 
