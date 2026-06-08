@@ -1,4 +1,7 @@
 # Fraud-Detection-Project
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Status-Complete-green)
 Fraud detection project with ML and Power BI dashboard
 # 💳 Fraud Detection & Machine Learning Project
 
