@@ -91,3 +91,6 @@ Fraud detection requires balancing precision and recall. This project demonstrat
 ## 👩🏽‍💻 Author
 
 Freke – Data Analyst | Aspiring Data Scientist
+
+## 🔗 Other Projects
+- [Bank Customer Churn Analysis](https://github.com/Frekizzle3/bank-customer-churn-analysis)
